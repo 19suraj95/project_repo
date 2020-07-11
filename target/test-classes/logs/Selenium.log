@@ -1,0 +1,7 @@
+04:27:45,496 DEBUG devpinoyLogger:41 - Into Setup method (setup method started.)
+04:27:45,501 DEBUG devpinoyLogger:51 - Config File loaded Successfully..!!!!
+04:27:45,502 DEBUG devpinoyLogger:66 - objectRepo File loaded Successfully..!!!!
+04:27:48,890 DEBUG devpinoyLogger:76 - Chrome launched Successfully..!!!!
+04:27:50,941 DEBUG devpinoyLogger:93 - Navigated to : http://www.way2automation.com/angularjs-protractor/banking/#/login
+04:27:51,599 DEBUG devpinoyLogger:106 - Test Execution Completed..!!!!54656
+04:27:52,768 DEBUG devpinoyLogger:109 - Test Execution Completed..!!!!
