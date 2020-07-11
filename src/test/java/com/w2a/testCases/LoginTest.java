@@ -16,7 +16,11 @@ public class LoginTest extends TestBase{
 	   driver.findElement(By.xpath(objectRepo.getProperty("Bankmgrlgnbtn"))).click();
 	   Thread.sleep(3000);
 	   Assert.assertTrue(true);
+	   
+	  log.debug("Logged in as bank Manager Successfully");
+	  
 	}
+	
 
 }
 

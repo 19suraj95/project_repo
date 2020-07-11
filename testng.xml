@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-  <test thread-count="5" name="Test">
+ 
+  <test name="Test">
     <classes>
       <class name="com.w2a.testCases.LoginTest"/>
+      <class name="com.w2a.testCases.Add_Customer_Test"/>
+      
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test --> 
+
 </suite> <!-- Suite -->
+
